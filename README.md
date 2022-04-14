@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @zeynalalakus
 - 👀 I’m interested in Web and Mobile Development
-- 🌱 I’m currently learning Node.js and Vue.js
+- 🌱 I’m currently learning Java Spring
 - 💞️ I’m looking to collaborate on Angular, Vue.js, MEAN, MEVN
 - 📫 How to reach me by zeynal.a2907@gmail.com
 
