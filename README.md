@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @zeynalalakus
 - 👀 I’m interested in Web and Mobile Development
-- 🌱 I’m currently learning Java Spring
-- 💞️ I’m looking to collaborate on Angular, Vue.js, MEAN, MEVN
+- 🌱 I’m currently learning NestJS
+- 💞️ I’m looking to collaborate on Angular, React, NestJS
 - 📫 How to reach me by zeynal.a2907@gmail.com
 
 <!---
